@@ -30,4 +30,5 @@ This is how the application looks when you run it.
 
 
 ## Authors:
-* Mayank Parida
+* [Mayank Parida](https://www.linkedin.com/in/mayankparida18/)
+* [Kushagra Gupta](https://www.linkedin.com/in/kg1510/)
