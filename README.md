@@ -24,7 +24,7 @@ For running this script you'll need:
 ## Final Look:
 This is how the application looks when you run it.
 
-![Screenshot_2020-08-08-22-12-58-498_zoomcut zoomcut](https://user-images.githubusercontent.com/68542629/89715644-aa2b4000-d9c4-11ea-8cb6-22be8e611600.jpg) ![Screenshot_2020-08-08-22-13-04-796_zoomcut zoomcut](https://user-images.githubusercontent.com/68542629/89715632-9a136080-d9c4-11ea-83c1-f3c3c112f78f.jpg)
+![Screenshot_2020-08-08-22-12-58-498_zoomcut zoomcut (1)](https://user-images.githubusercontent.com/68542629/89715739-77ce1280-d9c5-11ea-9b57-dc471ed9da24.gif)
 
 ## Authors:
 * Mayank Parida
