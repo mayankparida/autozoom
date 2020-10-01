@@ -1,3 +1,5 @@
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)  
+
 # autozoom
 A flutter project written in Android Studio using Dart language to help you join your zoom meetings automatically at the given time and have no worries about being late to a meeting or your attendance in a class if you're a student.
 
@@ -26,7 +28,13 @@ This is how the application looks when you run it.
 
 ![4atxye](https://user-images.githubusercontent.com/68542629/89716469-dfd32780-d9ca-11ea-9774-34d7b013fabd.gif)
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 ## Authors:
 * [Mayank Parida](https://www.linkedin.com/in/mayankparida18/)
 * [Kushagra Gupta](https://www.linkedin.com/in/kg1510/)
+
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) by [Mayank Parida](https://www.linkedin.com/in/mayankparida18/)
