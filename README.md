@@ -35,6 +35,8 @@ This is how the application looks when you run it.
 ## Authors:
 * [Mayank Parida](https://www.linkedin.com/in/mayankparida18/)
 * [Kushagra Gupta](https://www.linkedin.com/in/kg1510/)
+* [Vikramaditya Singh Saxena](https://www.linkedin.com/in/vikramadityasinghs/)
+ 
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) by [Mayank Parida](https://www.linkedin.com/in/mayankparida18/)
